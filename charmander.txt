@@ -1,1 +1,4 @@
-flamethrower
+Flamethrower
+Fly
+Burn
+Tackle
